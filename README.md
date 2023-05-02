@@ -1,4 +1,4 @@
 # 501Group
 501 Group Project - Online Learning
 
-https://sarah-bateman.github.io
+https://Sarah-Bateman.github.io
