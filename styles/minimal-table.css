@@ -81,3 +81,10 @@
   caption {
     padding: 10px;
   }
+
+  .break-line {
+    width: 100%;
+    height: 1px;
+    background-color: #bebebe;
+    margin: 1rem 0;
+  }
